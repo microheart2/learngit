@@ -7,3 +7,5 @@ local: conflict again
 =======
 15:37 make a conflict again.
 >>>>>>> 9f8c1912b3fa8eee0556d746309e602cc9c3d07d
+
+remote:again 001
